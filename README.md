@@ -29,8 +29,8 @@ Compose App Showcasing Notification List Using Modern Android Architecture
 
 # Architecure Decision
 
-App uses MVVM architecture which helps in encapsulating business logic from the view. Also combines State logic from MVI archtecture. View UI can't be directly updated. All updates need to happen through the state which are updated by view models. 
-This archteture also helps in maintaing the screen state when re-composition of Composables happen for scenarios like Device Rotation.
+App uses MVVM architecture which helps in encapsulating business logic from the view. Also combines State logic from MVI architecture. View UI can't be directly updated. All updates need to happen through the state which are updated by view models. 
+This architecture also helps in maintaing the screen state when re-composition of Composables happen for scenarios like Device Rotation.
 
 # Challenges
 - Time Constraint. Lot can be done to improve the UX design & add more functionalities.
@@ -43,6 +43,6 @@ This archteture also helps in maintaing the screen state when re-composition of 
 - UI/Unit Test Cases
 
 
-# Screenhsots
+# Screeshots
 
 ![Screenshot](notify2.png)
