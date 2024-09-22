@@ -43,6 +43,6 @@ This architecture also helps in maintaing the screen state when re-composition o
 - UI/Unit Test Cases
 
 
-# Screeshots
+# Screenshot
 
 ![Screenshot](notify2.png)
