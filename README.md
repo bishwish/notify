@@ -45,4 +45,4 @@ This archteture also helps in maintaing the screen state when re-composition of 
 
 # Screenhsots
 
-![Screenshot](notify.png)
+![Screenshot](notify2.png)
