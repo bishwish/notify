@@ -37,5 +37,10 @@ This archteture also helps in maintaing the screen state when re-composition of 
 - One issue I which took sometime to debug was latest Material 3 library updates has broken some features like CircularProgressIndicator, had to do some research to update Material 3 librbary to correct working verson.
 - Hilt Dependency Injection Set Up took some time as well.
 
+# Potential Future Improvements
+- Offline Support
+- Animations
+- UI/Unit Test Cases
+
 
 # Screenhsots
